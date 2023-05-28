@@ -1,0 +1,52 @@
+body {
+    background-size: cover;
+}
+
+a {
+
+    background-color: white;
+    color: darkblue;
+    width: 2000px;
+    padding: 20px;
+    border-radius:10px ;
+    text-decoration: none;
+
+}
+
+.head_bedroom {
+    width: 90%;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: brown;
+}
+
+.back_button {
+    float: right;
+    color: white;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 10%;
+    text-decoration: none;
+}
+
+.status {
+    width: 30%;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.detected_objects_count{
+
+    width: fit-content;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px; 
+}
